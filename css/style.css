@@ -193,7 +193,7 @@ html{
 
 .form {
     max-width: 62%;
-    margin: 42px auto;
+    margin: 26px auto;
 }
 
 .form-input {
@@ -213,7 +213,7 @@ html{
     color: white;
 }
 
-.burger {
+.burger{
     display: none;
     position: absolute;
     cursor: pointer;
@@ -221,7 +221,7 @@ html{
     top: 15px;
 }
 
-.line {
+.line{
     width: 33px;
     background-color: white;
     height: 4px;

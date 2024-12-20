@@ -6,7 +6,7 @@
     .navbar {
         height: 447px;
         flex-direction: column;
-        transition: all 0.7s ease-out;
+        transition: all 0.2s ease-out;
     }
 
     .rightnav {
@@ -22,16 +22,16 @@
         width: 100%;
     }
 
-    .burger {
-        display: none;
+    .burger{
+        display: block;
     }
 
-    .h-nav-resp {
+    .h-nav-resp{
         height: 72px;
 
     }
 
-    .v-class-resp {
+    .v-class-resp{
         opacity: 0;
     }
 
